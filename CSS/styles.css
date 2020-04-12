@@ -1,0 +1,47 @@
+body{
+    text-align: center;
+}
+.sign-in{
+    width: 30%;
+    margin: 5% auto 10px auto;
+}
+
+.title{
+    background-color: teal;
+    padding:1rem 0;
+    
+}
+p{
+ float:left;
+ margin-right: 150px;
+}
+.icon1{
+    float:left;
+    margin-right: 150px; 
+    margin-left: 5px;
+}
+
+.txt{
+    float:left;
+    margin-right: 150px; 
+}
+.input{
+   margin-top: 5rem;
+}
+.click{
+    background-color: teal;
+    padding:5px 170px;
+   
+}
+.below{
+    font-weight: lighter;
+}
+
+.epam{
+    margin-top: 10px;
+    padding: 5px 150px;
+    background-color: darkkhaki;
+    color: white;
+    font-weight: 2;
+
+}
